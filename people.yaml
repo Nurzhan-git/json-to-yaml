@@ -1,0 +1,28 @@
+bek:
+  name: bekzat Brat
+  job: DevOps
+  salary: 150 
+  skills:
+    - github
+    - scrum
+    - activ directory
+    - linux
+  tammembers: 
+    - aman: 
+        name: Aman Brat
+        job: DevOps
+        salary: 150
+        skills:
+          - github
+          - scrum
+          - activ directory
+          - linux 
+    - martin: 
+        name: Martin Brother
+        job: DevOps
+        salary: 150
+        skills:
+          - github
+          - scrum
+          - activ directory
+          - linux
